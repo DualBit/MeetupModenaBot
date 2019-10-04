@@ -1,0 +1,7 @@
+*.py[cod]
+*$py.class
+__pycache__/
+.idea/
+venv-mac/
+venv-win/
+venv-linux/
